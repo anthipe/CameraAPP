@@ -30,7 +30,7 @@ This is the _consent_ page
 
 This is the _accelerometer_ page 
 
-**if you don't own a android device** you can use the **extended controls** of the IDE by **clicking** thw 3 dots above the emulator and then by **clicking virtual sensors** you can move and rotate the device 
+**if you don't own an android device** you can use the **extended controls** of the IDE by **clicking** thw 3 dots above the emulator and then by **clicking virtual sensors** you can move and rotate the device 
 
 
 ![Screenshot of the accelerometer  page](sceenshots/accelerometor.png)
