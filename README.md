@@ -6,7 +6,8 @@ This is a app that uses the **acceleratEr** of your mobile device in order to op
 
 ## WHAT IS AN ACCELEROMETER USED FOR?
 Accelerometers measure acceleration, which in practical terms means changes in speed or direction.
-## FILIES
+
+## FILES
 Begin by **downloading the .zip file and extracting all the contents**. After the downloading open the file contents on
 _AndroidStudio _ IDE.
 There is two main files in the zip . The first one is the main activity which contains the code for the camera permission and the listeners. The second one contains the code for the accelerometer 
