@@ -29,11 +29,12 @@ This is the _consent_ page
 ![Screenshot of the consent page](sceenshots/consent.png)
 
 This is the _accelerometer_ page 
+
 **if you don't own a android device** you can use the **extended controls** of the IDE by **clicking** thw 3 dots above the emulator and then by **clicking virtual sensors** you can move and rotate the device 
 
 
-![Screenshot of the consent page](sceenshots/accelerometor.png)
+![Screenshot of the accelerometer  page](sceenshots/accelerometor.png)
 
 This is the _final_ page 
 
-![Screenshot of the consent page](sceenshots/final.png)
+![Screenshot of the final page](sceenshots/final.png)
