@@ -14,5 +14,5 @@ Java,was used for the source code
 
 ## PAGES 
 This is the _main_ page of the app
-![Screenshot of the main page]()
+![Screenshot of the main page](sceenshots/Στιγμιότυπο οθόνης 2024-10-06, 16.08.24.png)
 
