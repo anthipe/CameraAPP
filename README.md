@@ -2,7 +2,7 @@
 An android app that opens the camera by moving the device.
 
 ## DESCRIPTION
-This is a app that uses the **acceleratEr** of your mobile device in order to open the camera app 
+This is a app that uses the **accelerometer** of your mobile device in order to open the camera app 
 
 ## WHAT IS AN ACCELEROMETER USED FOR?
 Accelerometers measure acceleration, which in practical terms means changes in speed or direction.
