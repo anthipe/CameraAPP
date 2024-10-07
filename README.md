@@ -2,7 +2,8 @@
 An android app that opens the camera by moving the device.
 
 ## DESCRIPTION
-This is an app that uses the **accelerometer** of your mobile device in order to open the camera app. When you open the app the first thing that you see is a message and a button.If you press the button a _warning message_ pops up that asks for camera permission. If you agree to this, you need to shake your device (if you don't own an android device there is a way explained below to do this in the emulator) in order to open the camera for you to take a photo.
+The aim of this project was to create an Android app that opens the camera of your mobile phone. Specifically, it uses the **accelerometer** of the device to achieve _this goal_. When the user opens the app, they see a message and a button below that. When the user presses the button, they will get a **pop-up warning message** asking them for **permission** to open the camera. In case they agree and press the "Ok" button, they will have to _shake_ the Android device in order for the camera to open up and take a picture. 
+>For users that don't have an Android device, the steps to achieve this are shown below in the emulator section.
 
 ## WHAT IS AN ACCELEROMETER USED FOR?
 Accelerometers measure acceleration, which in practical terms means changes in speed or direction.
