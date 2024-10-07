@@ -15,7 +15,9 @@ In order to see the source code open the folder ***app*** then ***src*** and ***
 
 ## CODE
 For this project, 
+
 -XML was used to make the UI 
+
 -Java was used for the source code
 
 ## PAGES 
